@@ -1,5 +1,5 @@
 # Port-Knocker
-A python script to automate DOS, Port Scanning and Reverse Shell Creation.
+Automated python scripts for customized (Custom Packet) DOS, Port scanning and Reverse Shell creation.
 * *Author - Muhammad Huzaifa.*
 # Descirption
 The repository contains following Module<br>
